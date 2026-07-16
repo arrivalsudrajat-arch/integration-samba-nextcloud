@@ -216,25 +216,6 @@ Pengujian yang dilakukan:
 
 ---
 
-# 📸 Dokumentasi
-
-Tambahkan screenshot berikut pada folder **docs/images**
-
-```
-docs/
-│
-├── proxmox.png
-├── samba.png
-├── nextcloud-dashboard.png
-├── external-storage.png
-├── login.png
-├── folder-common.png
-├── folder-personal.png
-├── permission.png
-├── cloudflare.png
-└── activity-diagram.png
-```
-
 ---
 
 # 🚀 Hasil Implementasi
