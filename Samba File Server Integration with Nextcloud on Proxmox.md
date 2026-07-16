@@ -1,6 +1,6 @@
 # 📁 Samba File Server Integration with Nextcloud on Proxmox
 
-> Implementasi File Server Samba yang terintegrasi dengan Nextcloud menggunakan Proxmox VE, MariaDB, Apache2, dan Cloudflare Tunnel.
+> Contoh Implementasi File Server Samba yang terintegrasi dengan Nextcloud menggunakan Proxmox VE, MariaDB, Apache2, dan Cloudflare Tunnel.
 
 ![Platform](https://img.shields.io/badge/Platform-Proxmox-orange)
 ![OS](https://img.shields.io/badge/OS-Debian%2013-red)
