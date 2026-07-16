@@ -67,9 +67,8 @@ Seluruh layanan dijalankan pada **Proxmox VE** menggunakan **LXC Container** seh
 
 | Device | IP Address |
 |---------|------------|
-| Samba Server | 192.168.5.141 |
-| Nextcloud | 192.168.5.142 |
-
+| Samba Server | 192.168.x.x |
+| Nextcloud | 192.168.x.x |
 ---
 
 # 📂 Folder Structure
